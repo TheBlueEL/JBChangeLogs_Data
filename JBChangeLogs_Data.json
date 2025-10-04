@@ -2014,5 +2014,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Star Spangled (Texture)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Touchdown (Texture)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Wooden Toy (Texture)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "5B Flags (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Aerial Support (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "DoYouLift (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "RC Antenna (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Tank Wing (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Torii Gate (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Travel Case (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Trophy Wings (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Vintage Wings (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Alpine Racer (Texture)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Rally Spotlight (Spoiler)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Green (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Pink (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Polar Blue (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Purple (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Red (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Sun (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant Yellow (Body Color)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Glacier (Tire Style)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Rollerblade (Tire Style)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "80s Cassette Table (Furniture)": {
+    "Cash Value": 250,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
