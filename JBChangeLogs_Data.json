@@ -1678,5 +1678,173 @@
     "Type": "Tire Style",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Yarg Cap (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Neon Vein Wall-Art (Furniture)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Surus (Vehicle)": {
+    "Cash Value": 109000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Abstracts (Rim)": {
+    "Cash Value": 120000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Cosmic (Drift)": {
+    "Cash Value": 120000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "RFX (Rim)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Falcon S (Vehicle)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Prison Bus (Vehicle)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "King (Spoiler)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Spares (Spoiler)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Giant OG Snowman (Furniture)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Delorean (Vehicle)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Fire Truck (Vehicle)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "RTX (Tire Style)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Lightning (Tire Sticker)": {
+    "Cash Value": 190000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Little Bird (Vehicle)": {
+    "Cash Value": 190000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ray 9 (Vehicle)": {
+    "Cash Value": 199000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dragon Chaser (Rim)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Fiasco (Vehicle)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Stallion (Vehicle)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ice Crystal (Rim)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Darkest Purple (Body Color)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Pixel Campfire (Furniture)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Desert Crawler (Vehicle)": {
+    "Cash Value": 229000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
