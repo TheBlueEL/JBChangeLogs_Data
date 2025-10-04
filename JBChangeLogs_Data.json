@@ -5374,5 +5374,82 @@
     "Type": "Spoiler",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Jade Glow (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hologram Donut Vendor (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Wanted Hologram Signage (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "ArmorPunk (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hex-Bond (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Corp CR1 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Arch9000 Glow (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cracky4 (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Doghouse Bulldog (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Doghouse German (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Bounty Board (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
