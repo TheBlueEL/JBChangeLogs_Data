@@ -2278,5 +2278,125 @@
     "Cash Value": "N/A",
     "Duped Value": 100000,
     "Type": "Furniture"
+  },
+  "Champion Trumpets (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Horn"
+  },
+  "8-Bit (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "DPad (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Grande Punto (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Python (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Jungle Ruins (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Tire Style"
+  },
+  "Yarg Cap (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Neon Vein Wall-Art (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Furniture"
+  },
+  "Shell Mark 5 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 92000,
+    "Type": "Vehicle"
+  },
+  "Ambulance (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 90000,
+    "Type": "Vehicle"
+  },
+  "Tow Truck (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 80000,
+    "Type": "Vehicle"
+  },
+  "Desert Camo (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 80000,
+    "Type": "Texture"
+  },
+  "Tanker (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 80000,
+    "Type": "Vehicle"
+  },
+  "Camper (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 79000,
+    "Type": "Vehicle"
+  },
+  "Subcarbon (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 75000,
+    "Type": "Rim"
+  },
+  "Pixel (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 75000,
+    "Type": "Drift"
+  },
+  "Wild West Wagon (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 75000,
+    "Type": "Furniture"
+  },
+  "Construction (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 60000,
+    "Type": "Tire Sticker"
+  },
+  "Challenger (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 59000,
+    "Type": "Vehicle"
+  },
+  "Boxer (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 55000,
+    "Type": "Vehicle"
+  },
+  "Expeditioner (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 55000,
+    "Type": "Vehicle"
+  },
+  "Electrostatic (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "Heli Prop (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "Hold E (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
   }
 }
