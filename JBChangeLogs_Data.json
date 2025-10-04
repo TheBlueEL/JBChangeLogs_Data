@@ -1678,5 +1678,173 @@
     "Type": "Tire Style",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Yarg Cap (Spoiler)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Neon Vein Wall-Art (Furniture)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Surus (Vehicle)": {
+    "Cash Value": 109,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Abstracts (Rim)": {
+    "Cash Value": 120,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cosmic (Drift)": {
+    "Cash Value": 120,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "RFX (Rim)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Falcon S (Vehicle)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Prison Bus (Vehicle)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "King (Spoiler)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Spares (Spoiler)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Giant OG Snowman (Furniture)": {
+    "Cash Value": 150,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Delorean (Vehicle)": {
+    "Cash Value": 175,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Fire Truck (Vehicle)": {
+    "Cash Value": 175,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "RTX (Tire Style)": {
+    "Cash Value": 175,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Lightning (Tire Sticker)": {
+    "Cash Value": 190,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Little Bird (Vehicle)": {
+    "Cash Value": 190,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ray 9 (Vehicle)": {
+    "Cash Value": 199,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dragon Chaser (Rim)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Fiasco (Vehicle)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Stallion (Vehicle)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ice Crystal (Rim)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Darkest Purple (Body Color)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Pixel Campfire (Furniture)": {
+    "Cash Value": 200,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Desert Crawler (Vehicle)": {
+    "Cash Value": 229,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
