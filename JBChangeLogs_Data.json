@@ -358,5 +358,125 @@
     "Cash Value": "N/A",
     "Duped Value": 4500000,
     "Type": "HyperChrome"
+  },
+  "Icicle (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Rim"
+  },
+  "Spark (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Drift"
+  },
+  "Torero (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Vehicle"
+  },
+  "Red 50 (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Tire Sticker"
+  },
+  "Galactic Carbon (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Texture"
+  },
+  "Volt Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "Spoiler"
+  },
+  "HyperYellow Level 3 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000000,
+    "Type": "HyperChrome"
+  },
+  "Snowflake (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Rim"
+  },
+  "JB8 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Vehicle"
+  },
+  "Snake (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Vehicle"
+  },
+  "5 Star (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Spoiler"
+  },
+  "Clickbait (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Spoiler"
+  },
+  "Eight Leg (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Spoiler"
+  },
+  "Hot Chocolate Tub (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Furniture"
+  },
+  "Race Simulator (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Furniture"
+  },
+  "Trapped Bookshelf (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Furniture"
+  },
+  "Katana (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3500000,
+    "Type": "Vehicle"
+  },
+  "Brickset (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Rim"
+  },
+  "Airtail (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Vehicle"
+  },
+  "Brulee (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Vehicle"
+  },
+  "Tiny Toy (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Vehicle"
+  },
+  "Fire (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Texture"
+  },
+  "Cash Spitter (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Spoiler"
+  },
+  "Velocity (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Spoiler"
   }
 }
