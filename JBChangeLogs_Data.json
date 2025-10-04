@@ -2398,5 +2398,125 @@
     "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Furniture"
+  },
+  "Pixeltary (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Arcade Racer (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Fire (Weapon Skin)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Galactic Carbon (Weapon Skin)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "White Marble (Weapon Skin)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Bamboo Shooters (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Bull (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Energized (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Frostburn (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Red Eyes (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Rubber Ducky (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Spider Leg (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Star Badge (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Frost Crawler (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Megalodon (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "OG Monster (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Striker (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Pixel (Texture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Blue Chute (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Colors Of Italy (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Dual Flags (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Shell Speaker (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Gold (Body Color)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "HyperPurple Level 2 (HyperChrome)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
   }
 }
