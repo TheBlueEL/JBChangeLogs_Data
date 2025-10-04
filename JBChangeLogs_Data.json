@@ -238,5 +238,125 @@
     "Cash Value": "N/A",
     "Duped Value": 10000,
     "Type": "Texture"
+  },
+  "Box O Cash (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler"
+  },
+  "Eternal Flame (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler"
+  },
+  "Rocket (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler"
+  },
+  "Hot Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Body Color"
+  },
+  "Super Lime (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Body Color"
+  },
+  "Rally Lights (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler"
+  },
+  "Bananas (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Drift"
+  },
+  "Parrot (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler"
+  },
+  "Captain Chandelier (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Furniture"
+  },
+  "Deep Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 12000,
+    "Type": "Body Color"
+  },
+  "Parisian (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 12500,
+    "Type": "Tire Sticker"
+  },
+  "RX-1 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Rim"
+  },
+  "Taxi (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Texture"
+  },
+  "Arch (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Spoiler"
+  },
+  "Tiny Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Spoiler"
+  },
+  "Tiger (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Weapon Skin"
+  },
+  "Wooden Toy (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Weapon Skin"
+  },
+  "Treasure Island (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Rim"
+  },
+  "Captain Table (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Furniture"
+  },
+  "Model 3 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 16000,
+    "Type": "Vehicle"
+  },
+  "8-Bit Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 18000,
+    "Type": "Furniture"
+  },
+  "Vecchio (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Rim"
+  },
+  "Crash Nation (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Tire Sticker"
+  },
+  "Criminal (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Tire Sticker"
   }
 }
