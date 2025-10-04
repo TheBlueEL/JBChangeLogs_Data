@@ -598,5 +598,125 @@
     "Cash Value": "N/A",
     "Duped Value": 2000000,
     "Type": "Rim"
+  },
+  "Iron Rock (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Radar (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Sakura (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Stance (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Track Toy (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Wagon Wheel (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Aurora (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Drift"
+  },
+  "Brickset (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Drift"
+  },
+  "Agent (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Vehicle"
+  },
+  "Poseidon (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Vehicle"
+  },
+  "Old Town Road (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Texture"
+  },
+  "Dual Rockets (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Spoiler"
+  },
+  "Cannonfire (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Spoiler"
+  },
+  "Inf1n1ty (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
+  },
+  "Stormrider (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1750000,
+    "Type": "Vehicle"
+  },
+  "Donut (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1750000,
+    "Type": "Tire Style"
+  },
+  "Blue Eyes (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Rim"
+  },
+  "Daytona (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Rim"
+  },
+  "Doubloon (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Rim"
+  },
+  "Sparkler (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Rim"
+  },
+  "LongHorn (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Vehicle"
+  },
+  "Manta (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Vehicle"
+  },
+  "Armor (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Texture"
+  },
+  "Manga (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1500000,
+    "Type": "Texture"
   }
 }
