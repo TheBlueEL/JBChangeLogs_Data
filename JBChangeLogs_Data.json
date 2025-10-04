@@ -478,5 +478,125 @@
     "Cash Value": 20000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
+  },
+  "Clown (Horn)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Horn"
+  },
+  "Money (Weapon Skin)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Prehistoric (Texture)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Dual Wingbeat (Spoiler)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "147 (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Settima (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "LeEclair (Texture)": {
+    "Cash Value": 21000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Bloxy (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Cobweb (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Reactor (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "SRT (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Space-R (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Melons (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Performance (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Ray (Vehicle)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Leap Year (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Radar (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Camo Shark (Texture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Dragster (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Police That Way (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Shogun (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "TailFin (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Dino Exhibit (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Grand Piano (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
   }
 }
