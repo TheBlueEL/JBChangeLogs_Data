@@ -238,5 +238,125 @@
     "Cash Value": "N/A",
     "Duped Value": 11000000,
     "Type": "Vehicle"
+  },
+  "Blue 50 (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000000,
+    "Type": "Tire Sticker"
+  },
+  "HyperPurple Level 3 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000000,
+    "Type": "HyperChrome"
+  },
+  "HyperRed Level 3 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 9500000,
+    "Type": "HyperChrome"
+  },
+  "Snowstorm (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 9000000,
+    "Type": "Texture"
+  },
+  "Spiked (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 8500000,
+    "Type": "Tire Style"
+  },
+  "Parisian (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 8000000,
+    "Type": "Vehicle"
+  },
+  "Aperture (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 7500000,
+    "Type": "Vehicle"
+  },
+  "Shell Classic (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 7000000,
+    "Type": "Vehicle"
+  },
+  "Shogun (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 6500000,
+    "Type": "Vehicle"
+  },
+  "Scorpion (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 6000000,
+    "Type": "Vehicle"
+  },
+  "Brickset (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 6000000,
+    "Type": "Tire Style"
+  },
+  "HyperOrange Level 3 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 6000000,
+    "Type": "HyperChrome"
+  },
+  "Sci-Fi Kitchen (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 6000000,
+    "Type": "Furniture"
+  },
+  "Ionize (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "Rim"
+  },
+  "Carbonara (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "Vehicle"
+  },
+  "Macaron (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "Vehicle"
+  },
+  "Bicycle Rack (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "Spoiler"
+  },
+  "HyperBlue Level 2 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "HyperChrome"
+  },
+  "HyperGreen Level 3 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "HyperChrome"
+  },
+  "Snowstorm (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5500000,
+    "Type": "Weapon Skin"
+  },
+  "Bandit (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000000,
+    "Type": "Vehicle"
+  },
+  "Goliath (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000000,
+    "Type": "Vehicle"
+  },
+  "Rattler (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4500000,
+    "Type": "Vehicle"
+  },
+  "HyperDiamond Level 2 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4500000,
+    "Type": "HyperChrome"
   }
 }
