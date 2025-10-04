@@ -670,5 +670,173 @@
     "Type": "Spoiler",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Clown (Horn)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Money (Weapon Skin)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Prehistoric (Texture)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dual Wingbeat (Spoiler)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "147 (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Settima (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "LeEclair (Texture)": {
+    "Cash Value": 21000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Bloxy (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Cobweb (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Reactor (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "SRT (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Space-R (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Melons (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Performance (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ray (Vehicle)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Leap Year (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Radar (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Camo Shark (Texture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dragster (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Police That Way (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Shogun (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "TailFin (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dino Exhibit (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Grand Piano (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
