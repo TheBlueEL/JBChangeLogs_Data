@@ -1510,5 +1510,173 @@
     "Type": "Vehicle",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Laviolette (Vehicle)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Semi Truck (Vehicle)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tokyo (Tire Sticker)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dragon Scales (Texture)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Electronic (Texture)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Road Warrior (Texture)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "6 Billion (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Carbonara (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dragon Breath (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Nitro Tank (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Skater Wing (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "T Rex Bone (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tesla (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Torero (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Trouble Wing (Spoiler)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Escape Bot (Vehicle)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Cheese Burger (Tire Style)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "French Croissant Sofa (Furniture)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Champion Trumpets (Horn)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "8-Bit (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "DPad (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Grande Punto (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Python (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Jungle Ruins (Tire Style)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
