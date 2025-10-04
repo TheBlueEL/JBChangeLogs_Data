@@ -166,5 +166,173 @@
     "Type": "Body Color",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Darkest Red (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Hottest Pink (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Maroon (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Military Green (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Navy Blue (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Aurora (Weapon Skin)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Jungle Mosaic (Tire Sticker)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Mud (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tiki Stack Of Badimo (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Bamboo (Rim)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Rally Signage (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Pickup (Vehicle)": {
+    "Cash Value": 9000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "7 billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Jet (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Landmine (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Mystic (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Spike (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Deja (Vehicle)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Classic Var 3 (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Frost (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Paint (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Peach (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Racer (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
