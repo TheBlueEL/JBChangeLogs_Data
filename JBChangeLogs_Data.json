@@ -1174,5 +1174,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "BatWings (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Campout (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Flame Spitter (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "GTR (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Harpoon (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jailbreak Hills (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Laser Wire (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Meteor Magnet (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Native (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Racer (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Scythes (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Ski Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Terminator (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jet Ski (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Trail Trek (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cosmetic Safe (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "CyberBlue Couch (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Fabulous Sign (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiation Radio (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Toy Plane (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Wanted Background (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Winter Rally Lamp (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Voxel Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Voxel (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "50 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
