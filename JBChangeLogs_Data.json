@@ -478,5 +478,125 @@
     "Cash Value": "N/A",
     "Duped Value": 3000000,
     "Type": "Spoiler"
+  },
+  "Iceborn (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Vehicle"
+  },
+  "Snow Chain (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Tire Style"
+  },
+  "Orion M42 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 3000000,
+    "Type": "Vehicle"
+  },
+  "Center Lock (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Rim"
+  },
+  "Hypno (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Rim"
+  },
+  "Planetary (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Rim"
+  },
+  "Bloxy (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Vehicle"
+  },
+  "Concept (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Vehicle"
+  },
+  "Jackrabbit (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Vehicle"
+  },
+  "Wedge (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Vehicle"
+  },
+  "Jailbreak Army (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Tire Sticker"
+  },
+  "Japanese (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Tire Sticker"
+  },
+  "Black Ice (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Texture"
+  },
+  "Blue Pixel (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Texture"
+  },
+  "Earthquake (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Texture"
+  },
+  "Winter Camo (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Texture"
+  },
+  "Brickset (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Spoiler"
+  },
+  "Glider (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Spoiler"
+  },
+  "Tiki Torch (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Spoiler"
+  },
+  "Snow Trail (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Tire Style"
+  },
+  "Race Car Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Furniture"
+  },
+  "Sarcophagus Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Furniture"
+  },
+  "Cobra (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2500000,
+    "Type": "Vehicle"
+  },
+  "Diamond Engrave (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000000,
+    "Type": "Rim"
   }
 }
