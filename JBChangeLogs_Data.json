@@ -718,5 +718,125 @@
     "Cash Value": 40000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Galaxy (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Scorch (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Zebra (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Bubble Wand (Drift)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Badger (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Dune Buggy (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Patrol (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "WireFrame (Texture)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Electrostatic (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Heli Prop (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Hold E (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Propeller (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Quarter Dollar (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Roulette (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "ATV (Vehicle)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Buoy (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Champion (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Flags Of Europe (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Speed (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "USA (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Camo (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Ladybug (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Nuclear Waste (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Watermelon (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
   }
 }
