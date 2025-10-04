@@ -1,2 +1,170 @@
 {
+  "Arachnid (Rim)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Turbine (Rim)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Flat Black (Tire Sticker)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Black (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Blue (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cyan (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Forest Green (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Green (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Grey (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Matte (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "White (Body Color)": {
+    "Cash Value": 1,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Police (Texture)": {
+    "Cash Value": 2,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic Var 1 (Texture)": {
+    "Cash Value": 4,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic Var 2 (Texture)": {
+    "Cash Value": 4,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cow (Texture)": {
+    "Cash Value": 4,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Rainbow (Texture)": {
+    "Cash Value": 4,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Flower (Rim)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Money (Rim)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Speed (Texture)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Block Wing (Spoiler)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Darkest Blue (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Darkest Brown (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Darkest Green (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Darkest Marine (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  }
 }
