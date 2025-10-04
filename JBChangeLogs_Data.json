@@ -1510,5 +1510,173 @@
     "Type": "Vehicle",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Laviolette (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Semi Truck (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tokyo (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Dragon Scales (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Electronic (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Road Warrior (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "6 Billion (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Carbonara (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dragon Breath (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nitro Tank (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Skater Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "T Rex Bone (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Tesla (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Torero (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Trouble Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Escape Bot (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cheese Burger (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "French Croissant Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Champion Trumpets (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "8-Bit (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "DPad (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Grande Punto (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Python (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jungle Ruins (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
