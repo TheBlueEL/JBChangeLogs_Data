@@ -1,2 +1,122 @@
 {
+  "Arachnid (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Rim"
+  },
+  "Turbine (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Rim"
+  },
+  "Flat Black (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Tire Sticker"
+  },
+  "Black (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Blue (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Cyan (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Forest Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Grey (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Matte (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "White (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000,
+    "Type": "Body Color"
+  },
+  "Police (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 2000,
+    "Type": "Texture"
+  },
+  "Classic Var 1 (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000,
+    "Type": "Texture"
+  },
+  "Classic Var 2 (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000,
+    "Type": "Texture"
+  },
+  "Cow (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000,
+    "Type": "Texture"
+  },
+  "Rainbow (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 4000,
+    "Type": "Texture"
+  },
+  "Flower (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Rim"
+  },
+  "Money (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Rim"
+  },
+  "Speed (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Texture"
+  },
+  "Block Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Spoiler"
+  },
+  "Darkest Blue (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Body Color"
+  },
+  "Darkest Brown (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Body Color"
+  },
+  "Darkest Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Body Color"
+  },
+  "Darkest Marine (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 5000,
+    "Type": "Body Color"
+  }
 }
