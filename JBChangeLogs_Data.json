@@ -958,5 +958,125 @@
     "Cash Value": "N/A",
     "Duped Value": 1000000,
     "Type": "Rim"
+  },
+  "Soccer (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Rim"
+  },
+  "Tumble Weed (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Rim"
+  },
+  "Maverick (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Monster (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Sloop (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Tank (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Trailblazer (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Volt (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Blue S3 (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Tire Sticker"
+  },
+  "Nascar 75th (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Tire Sticker"
+  },
+  "Berlin Graffiti (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "Circuits (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "Crimson Racer (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "Earth (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "Lightning (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "White Marble (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Texture"
+  },
+  "Bull (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Guitar Riff (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "JDM (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Orange Chute (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Snow Cannon (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Spare (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Surfboard Rack (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "UFO (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
   }
 }
