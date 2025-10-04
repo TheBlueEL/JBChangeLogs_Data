@@ -718,5 +718,125 @@
     "Cash Value": 1500000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Orange Pixel (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Tiger (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "After Burner (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Death Ray (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Endurance Wing (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Flamethrower (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Jetpack (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Mecha Arm (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Water Gun (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "HyperPink Level 2 (HyperChrome)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "Cryo Chamber (Furniture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Picnic Table (Furniture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Cucaracha (Horn)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Horn"
+  },
+  "Revox (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Circuit Board (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Digital Confetti (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Flaming (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Blue Portal (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Blackbeard (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Ocean Water (Drift)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Neo-Static (Drift)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Bull (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Energized (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Frostburn (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
   }
 }
