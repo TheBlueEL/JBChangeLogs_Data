@@ -2398,5 +2398,125 @@
     "Cash Value": "N/A",
     "Duped Value": 50000,
     "Type": "Rim"
+  },
+  "Propeller (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "Quarter Dollar (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "Roulette (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "ATV (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Vehicle"
+  },
+  "Buoy (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "Champion (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "Flags Of Europe (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "Speed (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "USA (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "Camo (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Texture"
+  },
+  "Ladybug (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Texture"
+  },
+  "Nuclear Waste (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Texture"
+  },
+  "Watermelon (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Texture"
+  },
+  "BatWings (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Campout (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Flame Spitter (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "GTR (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Harpoon (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Jailbreak Hills (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Laser Wire (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Meteor Magnet (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Native (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Racer (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Scythes (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
   }
 }
