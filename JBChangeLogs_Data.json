@@ -3526,5 +3526,173 @@
     "Type": "HyperChrome",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "HyperRed Level 2 (HyperChrome)": {
+    "Cash Value": "1 250 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "RGB Wall (Furniture)": {
+    "Cash Value": "1 250 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Teleporters (Furniture)": {
+    "Cash Value": "1 250 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Blue Eyes (Rim)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Daytona (Rim)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Doubloon (Rim)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Sparkler (Rim)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "LongHorn (Vehicle)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Manta (Vehicle)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Armor (Texture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Manga (Texture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Orange Pixel (Texture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Tiger (Texture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "After Burner (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Death Ray (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Endurance Wing (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Flamethrower (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Jetpack (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Mecha Arm (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Water Gun (Spoiler)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPink Level 2 (HyperChrome)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Cryo Chamber (Furniture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Picnic Table (Furniture)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Cucaracha (Horn)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
