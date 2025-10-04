@@ -598,5 +598,125 @@
     "Cash Value": "N/A",
     "Duped Value": 25000,
     "Type": "Furniture"
+  },
+  "Missile Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 25000,
+    "Type": "Furniture"
+  },
+  "TNT Barrel (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 25000,
+    "Type": "Furniture"
+  },
+  "Safari (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 25000,
+    "Type": "Tire Style"
+  },
+  "Mark 5 (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 29900,
+    "Type": "Spoiler"
+  },
+  "Interrogator (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 30000,
+    "Type": "Vehicle"
+  },
+  "Patchy Jeans (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 30000,
+    "Type": "Texture"
+  },
+  "Park Bench (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 30000,
+    "Type": "Spoiler"
+  },
+  "Badimo Bros Wall Light (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 30000,
+    "Type": "Furniture"
+  },
+  "Sloopwreck Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 30000,
+    "Type": "Furniture"
+  },
+  "Police Chase (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Rim"
+  },
+  "Slashers (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Rim"
+  },
+  "VFX (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Rim"
+  },
+  "Cartoon (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Drift"
+  },
+  "Dirt Bike (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Vehicle"
+  },
+  "Badonuts (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Tire Sticker"
+  },
+  "Tracer (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Tire Sticker"
+  },
+  "Lines (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Texture"
+  },
+  "Volt (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 35000,
+    "Type": "Texture"
+  },
+  "Wingo (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 37000,
+    "Type": "Spoiler"
+  },
+  "Volcano (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 39000,
+    "Type": "Texture"
+  },
+  "Unified (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Rim"
+  },
+  "Candy Cane (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Texture"
+  },
+  "Diamond (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Texture"
+  },
+  "Donut (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Texture"
   }
 }
