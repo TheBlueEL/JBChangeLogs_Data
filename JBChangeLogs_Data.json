@@ -4030,5 +4030,173 @@
     "Type": "Vehicle",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "Tiny Toy (Vehicle)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Fire (Texture)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Cash Spitter (Spoiler)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Velocity (Spoiler)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Iceborn (Vehicle)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snow Chain (Tire Style)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Orion M42 (Vehicle)": {
+    "Cash Value": "3 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snowflake (Rim)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "JB8 (Vehicle)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snake (Vehicle)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "5 Star (Spoiler)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Clickbait (Spoiler)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Eight Leg (Spoiler)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Hot Chocolate Tub (Furniture)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Race Simulator (Furniture)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Trapped Bookshelf (Furniture)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Katana (Vehicle)": {
+    "Cash Value": "3 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Icicle (Rim)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Spark (Drift)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Torero (Vehicle)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Red 50 (Tire Sticker)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Galactic Carbon (Texture)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Volt Wing (Spoiler)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperYellow Level 3 (HyperChrome)": {
+    "Cash Value": "4 000 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
