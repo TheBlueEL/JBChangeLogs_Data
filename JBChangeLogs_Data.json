@@ -2350,5 +2350,173 @@
     "Type": "Vehicle",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Carbon Fire (Texture)": {
+    "Cash Value": "325 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hammer Head (Vehicle)": {
+    "Cash Value": "350 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Lightning (Drift)": {
+    "Cash Value": "400 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Stacked Cyberwing (Spoiler)": {
+    "Cash Value": "400 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "4 Billion (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Beachball (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Beadlock (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bonded (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Live 2020 (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Roll-X (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "SawBlade (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Ship Wheel (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "UK Heritage (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Unknown Signal (Rim)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Shooting Star (Drift)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Classic (Vehicle)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Mighty (Vehicle)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Posh (Vehicle)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "SUV (Vehicle)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Steed (Vehicle)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "3 Billion (Tire Sticker)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "80s Style (Tire Sticker)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Aquatic (Texture)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bandana (Texture)": {
+    "Cash Value": "500 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
