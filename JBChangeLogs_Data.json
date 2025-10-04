@@ -1006,5 +1006,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Galaxy (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Scorch (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Zebra (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Bubble Wand (Drift)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Badger (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dune Buggy (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Patrol (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "WireFrame (Texture)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Electrostatic (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Heli Prop (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Hold E (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Propeller (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Quarter Dollar (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Roulette (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "ATV (Vehicle)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Buoy (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Champion (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Flags Of Europe (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Speed (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "USA (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Camo (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ladybug (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nuclear Waste (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Watermelon (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
