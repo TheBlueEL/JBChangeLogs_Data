@@ -3053,5 +3053,125 @@
     "Cash Value": 20000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Dual Wingbeat (Spoiler)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "147 (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Settima (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "8-Bit Rug (Furniture)": {
+    "Cash Value": 18000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Model 3 (Vehicle)": {
+    "Cash Value": 16000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "RX-1 (Rim)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Taxi (Texture)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Arch (Spoiler)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Tiny Wing (Spoiler)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Tiger (Weapon Skin)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Wooden Toy (Weapon Skin)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Treasure Island (Rim)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Captain Table (Furniture)": {
+    "Cash Value": 15000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Parisian (Tire Sticker)": {
+    "Cash Value": 12500,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Deep Purple (Body Color)": {
+    "Cash Value": 12000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "7 billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Jet (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Landmine (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Mystic (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Spike (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Deja (Vehicle)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Classic Var 3 (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Frost (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
   }
 }
