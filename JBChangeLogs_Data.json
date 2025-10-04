@@ -2278,5 +2278,125 @@
     "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Earth (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Lightning (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "White Marble (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Bull (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Guitar Riff (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "JDM (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Orange Chute (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Snow Cannon (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Spare (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Surfboard Rack (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "UFO (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Windmill (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Black Hawk (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Jet (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Drone (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Ice Spike (Drift)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Radiant Ice (Body Color)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "HyperGreen Level 2 (HyperChrome)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperOrange Level 2 (HyperChrome)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "Bloxy Lisa (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Foosball Table (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Missile Bed (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Super Star Rug (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Arcade Portal (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
   }
 }
