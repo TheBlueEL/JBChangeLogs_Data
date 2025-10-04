@@ -2686,5 +2686,173 @@
     "Type": "Furniture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Fall Chrome (Body Color)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Winner (Horn)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Spixel (Rim)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "PixelCoin (Drift)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Black Ice (Weapon Skin)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Earthquake (Weapon Skin)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jungle Vine (Drift)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Pirate Figurehead (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Neo-Runner (Rim)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Wyndr (Vehicle)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Eclaire (Vehicle)": {
+    "Cash Value": 600,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nascar 75th (Vehicle)": {
+    "Cash Value": 600,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Roadster (Vehicle)": {
+    "Cash Value": 600,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "HyperYellow Level 2 (HyperChrome)": {
+    "Cash Value": 600,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Successor (Vehicle)": {
+    "Cash Value": 649,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Venom (Vehicle)": {
+    "Cash Value": 650,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Crown (Vehicle)": {
+    "Cash Value": 666,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Baller (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Biohazard (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Compass (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Dino (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Handcuff (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Shutter Shade (Rim)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "OG Fuel (Drift)": {
+    "Cash Value": 750,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
