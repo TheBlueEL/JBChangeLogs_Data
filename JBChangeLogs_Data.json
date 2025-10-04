@@ -1846,5 +1846,173 @@
     "Type": "Vehicle",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Belgian Waffle (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "BoominSpeaker (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "EXP 1 (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Gun Fire (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Peppermint (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Piggy (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Rally (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Retro Racer (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Road Warrior (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Scope (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Spyglass (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Teddy Bear (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tesseract (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Trion (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "VolleyBall (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Synth (Drift)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "OG La Matador (Vehicle)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Sentinel (Vehicle)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Speed Yacht (Vehicle)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Aurora (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Comic Convict (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ogre 2017 (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Retrowave (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Road Hazard (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
