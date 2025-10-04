@@ -1678,5 +1678,125 @@
     "Cash Value": "N/A",
     "Duped Value": 325000,
     "Type": "Texture"
+  },
+  "Forged (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 300000,
+    "Type": "Rim"
+  },
+  "Flamethrower (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 300000,
+    "Type": "Drift"
+  },
+  "Stunt (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 300000,
+    "Type": "Vehicle"
+  },
+  "XRK (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 299000,
+    "Type": "Vehicle"
+  },
+  "Belgian Waffle (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "BoominSpeaker (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "EXP 1 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Gun Fire (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Peppermint (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Piggy (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Rally (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Retro Racer (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Road Warrior (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Scope (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Spyglass (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Teddy Bear (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Tesseract (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Trion (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "VolleyBall (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Rim"
+  },
+  "Synth (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Drift"
+  },
+  "OG La Matador (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Vehicle"
+  },
+  "Sentinel (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Vehicle"
+  },
+  "Speed Yacht (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Vehicle"
+  },
+  "Aurora (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 250000,
+    "Type": "Texture"
   }
 }
