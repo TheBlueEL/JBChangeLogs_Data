@@ -2158,5 +2158,125 @@
     "Cash Value": "N/A",
     "Duped Value": 100000,
     "Type": "Rim"
+  },
+  "Radioactive (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Revolver (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Vault Door (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Rim"
+  },
+  "Magic Purple (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Drift"
+  },
+  "CyberTruck (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Vehicle"
+  },
+  "La Matador (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Vehicle"
+  },
+  "Laviolette (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Vehicle"
+  },
+  "Semi Truck (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Vehicle"
+  },
+  "Tokyo (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Tire Sticker"
+  },
+  "Dragon Scales (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Texture"
+  },
+  "Electronic (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Texture"
+  },
+  "Road Warrior (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Texture"
+  },
+  "6 Billion (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Carbonara (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Dragon Breath (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Nitro Tank (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Skater Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "T Rex Bone (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Tesla (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Torero (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Trouble Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Spoiler"
+  },
+  "Escape Bot (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Vehicle"
+  },
+  "Cheese Burger (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Tire Style"
+  },
+  "French Croissant Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 100000,
+    "Type": "Furniture"
   }
 }
