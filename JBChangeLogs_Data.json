@@ -3694,5 +3694,173 @@
     "Type": "Horn",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "Revox (Vehicle)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Circuit Board (Weapon Skin)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Digital Confetti (Weapon Skin)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Flaming (Weapon Skin)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Blue Portal (Rim)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Blackbeard (Vehicle)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Ocean Water (Drift)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Neo-Static (Drift)": {
+    "Cash Value": "1 500 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Stormrider (Vehicle)": {
+    "Cash Value": "1 750 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Donut (Tire Style)": {
+    "Cash Value": "1 750 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Diamond Engrave (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Iron Rock (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Radar (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Sakura (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Stance (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Track Toy (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Wagon Wheel (Rim)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Aurora (Drift)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Brickset (Drift)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Agent (Vehicle)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Poseidon (Vehicle)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Old Town Road (Texture)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Dual Rockets (Spoiler)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Cannonfire (Spoiler)": {
+    "Cash Value": "2 000 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
