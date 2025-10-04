@@ -2518,5 +2518,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Camo Radar (Texture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Gulf (Texture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Lava (Texture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Superstar (Texture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "3 Billion (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Death Trap (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Leaning Wing Of Pisa (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Live Glider (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "OG Rocket Thrusters (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Overdrive (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Robo Wing (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "SawBlade (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Skull (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Snow Log (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Trade Sail (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Turning Key (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Waving Flag (Spoiler)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "UFO (Vehicle)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Radiant Orange (Body Color)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Arcade Sports Machine (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Beach Hammock (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Liberty (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "London Telephone Sofa (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "OG Snow Machine (Furniture)": {
+    "Cash Value": 500,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
