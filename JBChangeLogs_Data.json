@@ -1318,5 +1318,125 @@
     "Cash Value": 1250000,
     "Duped Value": "N/A",
     "Type": "Rim"
+  },
+  "Red Eyes (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Rubber Ducky (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Spider Leg (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Star Badge (Rim)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Frost Crawler (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Megalodon (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "OG Monster (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Striker (Vehicle)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Pixel (Texture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Blue Chute (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Colors Of Italy (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Dual Flags (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Shell Speaker (Spoiler)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Gold (Body Color)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "HyperPurple Level 2 (HyperChrome)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperRed Level 2 (HyperChrome)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "RGB Wall (Furniture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Teleporters (Furniture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Distorted (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Euro Clover Leaf (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Fore (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Marshmallow (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Nemesis (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Retrowave (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
   }
 }
