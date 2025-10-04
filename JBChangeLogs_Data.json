@@ -838,5 +838,173 @@
     "Type": "Furniture",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Missile Sofa (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "TNT Barrel (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Safari (Tire Style)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Mark 5 (Spoiler)": {
+    "Cash Value": 29900,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Interrogator (Vehicle)": {
+    "Cash Value": 30000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Patchy Jeans (Texture)": {
+    "Cash Value": 30000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Park Bench (Spoiler)": {
+    "Cash Value": 30000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Badimo Bros Wall Light (Furniture)": {
+    "Cash Value": 30000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Sloopwreck Bed (Furniture)": {
+    "Cash Value": 30000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Police Chase (Rim)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Slashers (Rim)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "VFX (Rim)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Cartoon (Drift)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dirt Bike (Vehicle)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Badonuts (Tire Sticker)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tracer (Tire Sticker)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Lines (Texture)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Volt (Texture)": {
+    "Cash Value": 35000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Wingo (Spoiler)": {
+    "Cash Value": 37000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Volcano (Texture)": {
+    "Cash Value": 39000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Unified (Rim)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Candy Cane (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Diamond (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Donut (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
