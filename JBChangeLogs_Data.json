@@ -1318,5 +1318,125 @@
     "Cash Value": "N/A",
     "Duped Value": 750000,
     "Type": "Furniture"
+  },
+  "Royal Throne (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Furniture"
+  },
+  "Sakura Tree (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Furniture"
+  },
+  "Tiger Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Furniture"
+  },
+  "Track Car Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Furniture"
+  },
+  "Walk Of Fame (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Furniture"
+  },
+  "Jungle Palm (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Storm (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Crown (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 666000,
+    "Type": "Vehicle"
+  },
+  "Venom (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 650000,
+    "Type": "Vehicle"
+  },
+  "Successor (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 649000,
+    "Type": "Vehicle"
+  },
+  "Eclaire (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 600000,
+    "Type": "Vehicle"
+  },
+  "Nascar 75th (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 600000,
+    "Type": "Vehicle"
+  },
+  "Roadster (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 600000,
+    "Type": "Vehicle"
+  },
+  "HyperYellow Level 2 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 600000,
+    "Type": "HyperChrome"
+  },
+  "4 Billion (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Beachball (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Beadlock (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Bonded (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Live 2020 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Roll-X (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "SawBlade (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Ship Wheel (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "UK Heritage (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Unknown Signal (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
   }
 }
