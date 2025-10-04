@@ -1174,5 +1174,173 @@
     "Type": "Texture",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "BatWings (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Campout (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Flame Spitter (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "GTR (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Harpoon (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Jailbreak Hills (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Laser Wire (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Meteor Magnet (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Native (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Racer (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Scythes (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ski Wing (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Terminator (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Jet Ski (Vehicle)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Trail Trek (Tire Style)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Cosmetic Safe (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "CyberBlue Couch (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Fabulous Sign (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Radiation Radio (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Toy Plane (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Wanted Background (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Winter Rally Lamp (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Voxel Sofa (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Voxel (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
