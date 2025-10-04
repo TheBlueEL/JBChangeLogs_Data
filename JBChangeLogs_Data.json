@@ -958,5 +958,125 @@
     "Cash Value": 50000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
+  },
+  "Manga (Weapon Skin)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Skull And Sails (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "P-100I (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Boxer (Vehicle)": {
+    "Cash Value": 55000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Expeditioner (Vehicle)": {
+    "Cash Value": 55000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Challenger (Vehicle)": {
+    "Cash Value": 59000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Construction (Tire Sticker)": {
+    "Cash Value": 60000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Subcarbon (Rim)": {
+    "Cash Value": 75000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Pixel (Drift)": {
+    "Cash Value": 75000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Wild West Wagon (Furniture)": {
+    "Cash Value": 75000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Camper (Vehicle)": {
+    "Cash Value": 79000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Tow Truck (Vehicle)": {
+    "Cash Value": 80000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Desert Camo (Texture)": {
+    "Cash Value": 80000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Tanker (Vehicle)": {
+    "Cash Value": 80000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Ambulance (Vehicle)": {
+    "Cash Value": 90000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Shell Mark 5 (Vehicle)": {
+    "Cash Value": 92000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Cassette (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Evil Eye (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Radioactive (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Revolver (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Vault Door (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Magic Purple (Drift)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "CyberTruck (Vehicle)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "La Matador (Vehicle)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
   }
 }
