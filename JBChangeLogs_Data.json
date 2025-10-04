@@ -1438,5 +1438,125 @@
     "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Star Spangled (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Touchdown (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Wooden Toy (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "5B Flags (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Aerial Support (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "DoYouLift (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "RC Antenna (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Tank Wing (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Torii Gate (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Travel Case (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Trophy Wings (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Vintage Wings (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Alpine Racer (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Rally Spotlight (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Radiant Green (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Pink (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Polar Blue (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Purple (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Red (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Sun (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Radiant Yellow (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Glacier (Tire Style)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Rollerblade (Tire Style)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "80s Cassette Table (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
   }
 }
