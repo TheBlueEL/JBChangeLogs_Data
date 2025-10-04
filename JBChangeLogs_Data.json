@@ -3718,5 +3718,125 @@
     "Cash Value": "N/A",
     "Duped Value": "N/A",
     "Type": "Horn"
+  },
+  "Sendoff (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn"
+  },
+  "Steamer (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn"
+  },
+  "Train (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn"
+  },
+  "3 Lives (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Gamer TV Set (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Insert Coin (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "HungrySnake (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Pixel Wardrobe (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Aquatic (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Camo (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Candy Cane (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Diamond (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Donut (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Camo Radar (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Rainbow (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Scorch (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Zebra (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Nascar Hauler (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Swat Graffiti (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "MCL36 (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "MCL36 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "laughability (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "VoltLine (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Bleeding Edge (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
   }
 }
