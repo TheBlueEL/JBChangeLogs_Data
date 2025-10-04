@@ -334,5 +334,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Box O Cash (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Eternal Flame (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Rocket (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hot Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Super Lime (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Rally Lights (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bananas (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Parrot (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Captain Chandelier (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "10 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Deep Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "12 000",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Parisian (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "12 500",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "RX-1 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Taxi (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Arch (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tiny Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tiger (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Wooden Toy (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Treasure Island (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Captain Table (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "15 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Model 3 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "16 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "8-Bit Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "18 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Vecchio (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "20 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Crash Nation (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "20 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Criminal (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "20 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
