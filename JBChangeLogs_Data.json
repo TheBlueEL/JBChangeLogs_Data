@@ -2518,5 +2518,125 @@
     "Cash Value": 1250000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
+  },
+  "HyperRed Level 2 (HyperChrome)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "RGB Wall (Furniture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Teleporters (Furniture)": {
+    "Cash Value": 1250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Blue Eyes (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Daytona (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Doubloon (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Sparkler (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "LongHorn (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Manta (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Armor (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Manga (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Orange Pixel (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Tiger (Texture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "After Burner (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Death Ray (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Endurance Wing (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Flamethrower (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Jetpack (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Mecha Arm (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Water Gun (Spoiler)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "HyperPink Level 2 (HyperChrome)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "Cryo Chamber (Furniture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Picnic Table (Furniture)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Cucaracha (Horn)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Horn"
   }
 }
