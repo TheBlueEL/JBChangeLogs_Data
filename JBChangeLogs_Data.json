@@ -838,5 +838,125 @@
     "Cash Value": 50000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "BatWings (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Campout (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Flame Spitter (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "GTR (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Harpoon (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Jailbreak Hills (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Laser Wire (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Meteor Magnet (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Native (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Racer (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Scythes (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Ski Wing (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Terminator (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Jet Ski (Vehicle)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Trail Trek (Tire Style)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Cosmetic Safe (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "CyberBlue Couch (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Fabulous Sign (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Radiation Radio (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Toy Plane (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Wanted Background (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Winter Rally Lamp (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Voxel Sofa (Furniture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Voxel (Spoiler)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
   }
 }
