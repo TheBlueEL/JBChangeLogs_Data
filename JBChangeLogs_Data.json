@@ -4702,5 +4702,173 @@
     "Type": "HyperChrome",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "Blade (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cyclone (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Halo (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Star (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Blue Fire (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Gradient Pixel (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Camaro (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Celestial (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cruiser (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Jeep (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Lia (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "MCL36 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Nascar (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Nascar Free (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Swat Van (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "HelloItsVG (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Nascar (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Creator (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Deep Purple Flame (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Live 2024 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Catch Me (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "XRK Aero (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Heli (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
