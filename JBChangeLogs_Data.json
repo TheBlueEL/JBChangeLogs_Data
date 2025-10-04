@@ -3413,5 +3413,125 @@
     "Cash Value": 1000,
     "Duped Value": "N/A",
     "Type": "Body Color"
+  },
+  "Blade (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Cyclone (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Halo (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Star (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Blue Fire (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Gradient Pixel (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Camaro (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Celestial (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Cruiser (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Jeep (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Lia (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "MCL36 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Nascar (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Nascar Free (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Swat Van (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "HelloItsVG (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Nascar (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Creator (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Deep Purple Flame (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Live 2024 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Catch Me (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Classic (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "XRK Aero (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Heli (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
   }
 }
