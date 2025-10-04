@@ -1678,5 +1678,173 @@
     "Type": "Tire Style",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Yarg Cap (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Neon Vein Wall-Art (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "100 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Surus (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "109 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Abstracts (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "120 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cosmic (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "120 000",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "RFX (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Falcon S (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Prison Bus (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "King (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Spares (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Giant OG Snowman (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "150 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Delorean (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "175 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Fire Truck (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "175 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "RTX (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "175 000",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Lightning (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "190 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Little Bird (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "190 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ray 9 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "199 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dragon Chaser (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Fiasco (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Stallion (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ice Crystal (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Darkest Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Pixel Campfire (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "200 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Desert Crawler (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "229 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
