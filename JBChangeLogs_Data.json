@@ -166,5 +166,173 @@
     "Type": "Body Color",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Darkest Red (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hottest Pink (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Maroon (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Military Green (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Navy Blue (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Aurora (Weapon Skin)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Jungle Mosaic (Tire Sticker)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Mud (Body Color)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tiki Stack Of Badimo (Furniture)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bamboo (Rim)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Rally Signage (Furniture)": {
+    "Cash Value": 5,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Pickup (Vehicle)": {
+    "Cash Value": 9,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "7 billion (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Billion (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Jet (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Landmine (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Mystic (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Spike (Rim)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Deja (Vehicle)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic Var 3 (Texture)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Frost (Texture)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Paint (Texture)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Peach (Texture)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Racer (Texture)": {
+    "Cash Value": 10,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
