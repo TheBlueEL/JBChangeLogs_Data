@@ -1558,5 +1558,125 @@
     "Cash Value": "N/A",
     "Duped Value": 500000,
     "Type": "Spoiler"
+  },
+  "Trade Sail (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Spoiler"
+  },
+  "Turning Key (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Spoiler"
+  },
+  "Waving Flag (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Spoiler"
+  },
+  "UFO (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Vehicle"
+  },
+  "Radiant Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Body Color"
+  },
+  "Arcade Sports Machine (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "Beach Hammock (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "Liberty (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "London Telephone Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "OG Snow Machine (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "Fall Chrome (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Body Color"
+  },
+  "Winner (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Horn"
+  },
+  "Spixel (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "PixelCoin (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Drift"
+  },
+  "Black Ice (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Weapon Skin"
+  },
+  "Earthquake (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Weapon Skin"
+  },
+  "Jungle Vine (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Drift"
+  },
+  "Pirate Figurehead (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Furniture"
+  },
+  "Neo-Runner (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Rim"
+  },
+  "Wyndr (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 500000,
+    "Type": "Vehicle"
+  },
+  "Lightning (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 400000,
+    "Type": "Drift"
+  },
+  "Stacked Cyberwing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 400000,
+    "Type": "Spoiler"
+  },
+  "Hammer Head (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 350000,
+    "Type": "Vehicle"
+  },
+  "Carbon Fire (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 325000,
+    "Type": "Texture"
   }
 }
