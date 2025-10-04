@@ -1006,5 +1006,173 @@
     "Type": "Texture",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Galaxy (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Scorch (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Zebra (Texture)": {
+    "Cash Value": 40000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Bubble Wand (Drift)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Badger (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Dune Buggy (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Patrol (Vehicle)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "WireFrame (Texture)": {
+    "Cash Value": 45000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Electrostatic (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Heli Prop (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Hold E (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Propeller (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Quarter Dollar (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Roulette (Rim)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "ATV (Vehicle)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Buoy (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Champion (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Flags Of Europe (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Speed (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "USA (Tire Sticker)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Camo (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Ladybug (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Nuclear Waste (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Watermelon (Texture)": {
+    "Cash Value": 50000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
