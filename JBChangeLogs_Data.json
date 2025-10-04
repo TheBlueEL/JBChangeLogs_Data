@@ -3022,5 +3022,173 @@
     "Type": "Furniture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Tiger Rug (Furniture)": {
+    "Cash Value": "750 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Track Car Bed (Furniture)": {
+    "Cash Value": "750 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Walk Of Fame (Furniture)": {
+    "Cash Value": "750 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jungle Palm (Rim)": {
+    "Cash Value": "750 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Storm (Rim)": {
+    "Cash Value": "750 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Distorted (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Euro Clover Leaf (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Fore (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Marshmallow (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nemesis (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Retrowave (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Soccer (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Tumble Weed (Rim)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Maverick (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Monster (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Sloop (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Tank (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Trailblazer (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Volt (Vehicle)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Blue S3 (Tire Sticker)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nascar 75th (Tire Sticker)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Berlin Graffiti (Texture)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Circuits (Texture)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Crimson Racer (Texture)": {
+    "Cash Value": "1 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
