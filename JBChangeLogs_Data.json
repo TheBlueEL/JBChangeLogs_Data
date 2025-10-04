@@ -1493,5 +1493,125 @@
     "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Rim"
+  },
+  "Shooting Star (Drift)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Classic (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Mighty (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Posh (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "SUV (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Steed (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "3 Billion (Tire Sticker)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "80s Style (Tire Sticker)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Aquatic (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Bandana (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Camo Radar (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Gulf (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Lava (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Superstar (Texture)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "3 Billion (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Death Trap (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Leaning Wing Of Pisa (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Live Glider (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "OG Rocket Thrusters (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Overdrive (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Robo Wing (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "SawBlade (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Skull (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Snow Log (Spoiler)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
   }
 }
