@@ -4870,5 +4870,173 @@
     "Type": "Vehicle",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Blue (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Brown (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Gray (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Violet (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pastel Yellow (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Real Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Red (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Sakura Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Sand (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Yellow (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic Sport (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic Thick (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Classic (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Monster (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Offroad (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Treaded Sport (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Treaded Thick (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Treaded (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
