@@ -2518,5 +2518,125 @@
     "Cash Value": "N/A",
     "Duped Value": 50000,
     "Type": "Spoiler"
+  },
+  "Ski Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Terminator (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Jet Ski (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Vehicle"
+  },
+  "Trail Trek (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Style"
+  },
+  "Cosmetic Safe (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "CyberBlue Couch (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Fabulous Sign (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Radiation Radio (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Toy Plane (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Wanted Background (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Winter Rally Lamp (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Voxel Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Furniture"
+  },
+  "Voxel (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Spoiler"
+  },
+  "Manga (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Weapon Skin"
+  },
+  "Skull And Sails (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Tire Sticker"
+  },
+  "P-100I (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 50000,
+    "Type": "Rim"
+  },
+  "Bubble Wand (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 45000,
+    "Type": "Drift"
+  },
+  "Badger (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 45000,
+    "Type": "Vehicle"
+  },
+  "Dune Buggy (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 45000,
+    "Type": "Vehicle"
+  },
+  "Patrol (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 45000,
+    "Type": "Vehicle"
+  },
+  "WireFrame (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 45000,
+    "Type": "Texture"
+  },
+  "Unified (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Rim"
+  },
+  "Candy Cane (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Texture"
+  },
+  "Diamond (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 40000,
+    "Type": "Texture"
   }
 }
