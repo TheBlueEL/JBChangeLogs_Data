@@ -3190,5 +3190,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Earth (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Lightning (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "White Marble (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bull (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Guitar Riff (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "JDM (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Orange Chute (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Snow Cannon (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Spare (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Surfboard Rack (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "UFO (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Windmill (Spoiler)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Black Hawk (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Jet (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Drone (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Ice Spike (Drift)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Radiant Ice (Body Color)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperGreen Level 2 (HyperChrome)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "HyperOrange Level 2 (HyperChrome)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bloxy Lisa (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Foosball Table (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Missile Bed (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Super Star Rug (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Arcade Portal (Furniture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
