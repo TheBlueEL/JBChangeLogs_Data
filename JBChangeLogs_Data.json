@@ -670,5 +670,173 @@
     "Type": "Spoiler",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Clown (Horn)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Money (Weapon Skin)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Prehistoric (Texture)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Dual Wingbeat (Spoiler)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "147 (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Settima (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "LeEclair (Texture)": {
+    "Cash Value": 21000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Bloxy (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cobweb (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Reactor (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "SRT (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Space-R (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Melons (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Performance (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ray (Vehicle)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Leap Year (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Radar (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Camo Shark (Texture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Dragster (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Police That Way (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Shogun (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "TailFin (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dino Exhibit (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Grand Piano (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
