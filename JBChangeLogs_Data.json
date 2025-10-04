@@ -3293,5 +3293,125 @@
     "Cash Value": 5000,
     "Duped Value": "N/A",
     "Type": "Body Color"
+  },
+  "Military Green (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Navy Blue (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Aurora (Weapon Skin)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Jungle Mosaic (Tire Sticker)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Mud (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Tiki Stack Of Badimo (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Bamboo (Rim)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Rally Signage (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Classic Var 1 (Texture)": {
+    "Cash Value": 4000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Classic Var 2 (Texture)": {
+    "Cash Value": 4000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Cow (Texture)": {
+    "Cash Value": 4000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Rainbow (Texture)": {
+    "Cash Value": 4000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Police (Texture)": {
+    "Cash Value": 2000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Arachnid (Rim)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Turbine (Rim)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Flat Black (Tire Sticker)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Black (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Blue (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Cyan (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Forest Green (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Green (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Grey (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Matte (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "White (Body Color)": {
+    "Cash Value": 1000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
   }
 }
