@@ -3173,5 +3173,125 @@
     "Cash Value": 10000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Paint (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Peach (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Racer (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Box O Cash (Spoiler)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Eternal Flame (Spoiler)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Rocket (Spoiler)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Hot Orange (Body Color)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Super Lime (Body Color)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Rally Lights (Spoiler)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Bananas (Drift)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Parrot (Spoiler)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Captain Chandelier (Furniture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Pickup (Vehicle)": {
+    "Cash Value": 9000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Flower (Rim)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Money (Rim)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Speed (Texture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Block Wing (Spoiler)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Darkest Blue (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Darkest Brown (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Darkest Green (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Darkest Marine (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Darkest Red (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Hottest Pink (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Maroon (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
   }
 }
