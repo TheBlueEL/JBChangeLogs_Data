@@ -2758,5 +2758,125 @@
     "Cash Value": 25000,
     "Duped Value": "N/A",
     "Type": "Rim"
+  },
+  "SRT (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Space-R (Rim)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Melons (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Performance (Drift)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Ray (Vehicle)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Leap Year (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Radar (Tire Sticker)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Camo Shark (Texture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Dragster (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Police That Way (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Shogun (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "TailFin (Spoiler)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Dino Exhibit (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Grand Piano (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Missile Sofa (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "TNT Barrel (Furniture)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Safari (Tire Style)": {
+    "Cash Value": 25000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "LeEclair (Texture)": {
+    "Cash Value": 21000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Vecchio (Rim)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Crash Nation (Tire Sticker)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Criminal (Tire Sticker)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "DatBrian (Tire Sticker)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "DenisDaily (Tire Sticker)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "JBMS (Tire Sticker)": {
+    "Cash Value": 20000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
   }
 }
