@@ -838,5 +838,173 @@
     "Type": "Furniture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Missile Sofa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "25 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "TNT Barrel (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "25 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Safari (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "25 000",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Mark 5 (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "29 900",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Interrogator (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "30 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Patchy Jeans (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "30 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Park Bench (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "30 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Badimo Bros Wall Light (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "30 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Sloopwreck Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "30 000",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Police Chase (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Slashers (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "VFX (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cartoon (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Dirt Bike (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Badonuts (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Tracer (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Lines (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Volt (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "35 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Wingo (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "37 000",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Volcano (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "39 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Unified (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "40 000",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Candy Cane (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "40 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Diamond (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "40 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Donut (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "40 000",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
