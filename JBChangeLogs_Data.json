@@ -2158,5 +2158,125 @@
     "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
+  },
+  "Tiger Rug (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Track Car Bed (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Walk Of Fame (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Jungle Palm (Rim)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Storm (Rim)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Distorted (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Euro Clover Leaf (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Fore (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Marshmallow (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Nemesis (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Retrowave (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Soccer (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Tumble Weed (Rim)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Maverick (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Monster (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Sloop (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Tank (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Trailblazer (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Volt (Vehicle)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Blue S3 (Tire Sticker)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Nascar 75th (Tire Sticker)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Berlin Graffiti (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Circuits (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Crimson Racer (Texture)": {
+    "Cash Value": 1000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
   }
 }
