@@ -334,5 +334,173 @@
     "Type": "Texture",
     "Demand": "DupedDuped Value",
     "Trend": "Demand"
+  },
+  "Box O Cash (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Eternal Flame (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Rocket (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Hot Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Super Lime (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Rally Lights (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Bananas (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Drift",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Parrot (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Captain Chandelier (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 10000,
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Deep Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 12000,
+    "Type": "Body Color",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Parisian (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 12500,
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "RX-1 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Taxi (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Texture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Arch (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tiny Wing (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Spoiler",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Tiger (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Weapon Skin",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Wooden Toy (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Weapon Skin",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Treasure Island (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Captain Table (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 15000,
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Model 3 (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 16000,
+    "Type": "Vehicle",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "8-Bit Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 18000,
+    "Type": "Furniture",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Vecchio (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Rim",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Crash Nation (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
+  },
+  "Criminal (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": 20000,
+    "Type": "Tire Sticker",
+    "Demand": "DupedDuped Value",
+    "Trend": "Demand"
   }
 }
