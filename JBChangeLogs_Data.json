@@ -2638,5 +2638,125 @@
     "Cash Value": 1500000,
     "Duped Value": "N/A",
     "Type": "Horn"
+  },
+  "Revox (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Circuit Board (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Digital Confetti (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Flaming (Weapon Skin)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Blue Portal (Rim)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Blackbeard (Vehicle)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Ocean Water (Drift)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Neo-Static (Drift)": {
+    "Cash Value": 1500000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Stormrider (Vehicle)": {
+    "Cash Value": 1750000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Donut (Tire Style)": {
+    "Cash Value": 1750000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Diamond Engrave (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Iron Rock (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Radar (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Sakura (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Stance (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Track Toy (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Wagon Wheel (Rim)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Aurora (Drift)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Brickset (Drift)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Agent (Vehicle)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Poseidon (Vehicle)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Old Town Road (Texture)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Dual Rockets (Spoiler)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Cannonfire (Spoiler)": {
+    "Cash Value": 2000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
   }
 }
