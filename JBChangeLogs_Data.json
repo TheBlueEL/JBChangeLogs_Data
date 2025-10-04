@@ -4366,5 +4366,173 @@
     "Type": "HyperChrome",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "Snow Face (Rim)": {
+    "Cash Value": 11000000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Volt 4x4 (Vehicle)": {
+    "Cash Value": 11000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "2 Billion (Spoiler)": {
+    "Cash Value": 12000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Raptor (Vehicle)": {
+    "Cash Value": 12500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snow Shovel (Spoiler)": {
+    "Cash Value": 12500000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPink Level 3 (HyperChrome)": {
+    "Cash Value": 13500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Drip (Weapon Skin)": {
+    "Cash Value": 14000000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Crew Capsule (Vehicle)": {
+    "Cash Value": 15000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Molten M12 (Vehicle)": {
+    "Cash Value": 15000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperYellow Level 4 (HyperChrome)": {
+    "Cash Value": 15000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Banana Car (Vehicle)": {
+    "Cash Value": 17500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperYellow Level 5 (HyperChrome)": {
+    "Cash Value": 17500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Power 1 (Vehicle)": {
+    "Cash Value": 18500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Beam Hybrid (Vehicle)": {
+    "Cash Value": 19000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Icebreaker (Vehicle)": {
+    "Cash Value": 19000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Drip (Texture)": {
+    "Cash Value": 19000000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperDiamond Level 3 (HyperChrome)": {
+    "Cash Value": 19000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperGreen Level 4 (HyperChrome)": {
+    "Cash Value": 19000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "RTX (Rim)": {
+    "Cash Value": 20000000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Spinner (Rim)": {
+    "Cash Value": 20000000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperOrange Level 4 (HyperChrome)": {
+    "Cash Value": 20000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Noob Scream (Furniture)": {
+    "Cash Value": 20000000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Arachnid (Vehicle)": {
+    "Cash Value": 23000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperGreen Level 5 (HyperChrome)": {
+    "Cash Value": 24000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
