@@ -1342,5 +1342,173 @@
     "Type": "Spoiler",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Manga (Weapon Skin)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Skull And Sails (Tire Sticker)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "P-100I (Rim)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Boxer (Vehicle)": {
+    "Cash Value": 55,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Expeditioner (Vehicle)": {
+    "Cash Value": 55,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Challenger (Vehicle)": {
+    "Cash Value": 59,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Construction (Tire Sticker)": {
+    "Cash Value": 60,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Subcarbon (Rim)": {
+    "Cash Value": 75,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pixel (Drift)": {
+    "Cash Value": 75,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Wild West Wagon (Furniture)": {
+    "Cash Value": 75,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Camper (Vehicle)": {
+    "Cash Value": 79,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tow Truck (Vehicle)": {
+    "Cash Value": 80,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Desert Camo (Texture)": {
+    "Cash Value": 80,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Tanker (Vehicle)": {
+    "Cash Value": 80,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Ambulance (Vehicle)": {
+    "Cash Value": 90,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Shell Mark 5 (Vehicle)": {
+    "Cash Value": 92,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Cassette (Rim)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Evil Eye (Rim)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radioactive (Rim)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Revolver (Rim)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Vault Door (Rim)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Magic Purple (Drift)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "CyberTruck (Vehicle)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "La Matador (Vehicle)": {
+    "Cash Value": 100,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
