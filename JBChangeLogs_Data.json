@@ -5206,5 +5206,173 @@
     "Type": "Horn",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "Sendoff (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Steamer (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Train (Horn)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Horn",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "3 Lives (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Gamer TV Set (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Insert Coin (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "HungrySnake (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Pixel Wardrobe (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Aquatic (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Camo (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Candy Cane (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Diamond (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Donut (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Camo Radar (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Rainbow (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Scorch (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Zebra (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Nascar Hauler (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Swat Graffiti (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "MCL36 (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "MCL36 (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "laughability (Tire Sticker)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "VoltLine (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Bleeding Edge (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
