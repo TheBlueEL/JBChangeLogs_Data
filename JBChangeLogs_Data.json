@@ -1678,5 +1678,125 @@
     "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Rim"
+  },
+  "Shutter Shade (Rim)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "OG Fuel (Drift)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Kanagawa (Tire Sticker)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Red S3 (Tire Sticker)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Bacon (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Digital Confetti (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Field (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Flaming (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Glowing Yellow (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Hotdog (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Money (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Wavy (Texture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Glider Shop (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Japanese Lantern (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Star Wing (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Triple Fin (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Tuner (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Sled Void (Rim)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Hazards (Spoiler)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "America (Tire Style)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Air Hockey Table (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Gamer Chair (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "If I Had One (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Puzzle Couch (Furniture)": {
+    "Cash Value": 750000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
   }
 }
