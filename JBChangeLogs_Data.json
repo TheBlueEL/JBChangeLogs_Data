@@ -2093,5 +2093,125 @@
     "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Texture"
+  },
+  "Desert Crawler (Vehicle)": {
+    "Cash Value": 229000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Dragon Chaser (Rim)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Fiasco (Vehicle)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Stallion (Vehicle)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Ice Crystal (Rim)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Darkest Purple (Body Color)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pixel Campfire (Furniture)": {
+    "Cash Value": 200000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Ray 9 (Vehicle)": {
+    "Cash Value": 199000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Lightning (Tire Sticker)": {
+    "Cash Value": 190000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Little Bird (Vehicle)": {
+    "Cash Value": 190000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Delorean (Vehicle)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Fire Truck (Vehicle)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "RTX (Tire Style)": {
+    "Cash Value": 175000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "RFX (Rim)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Falcon S (Vehicle)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Prison Bus (Vehicle)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "King (Spoiler)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Spares (Spoiler)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Giant OG Snowman (Furniture)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Abstracts (Rim)": {
+    "Cash Value": 120000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Cosmic (Drift)": {
+    "Cash Value": 120000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Surus (Vehicle)": {
+    "Cash Value": 109000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Cassette (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Evil Eye (Rim)": {
+    "Cash Value": 100000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
   }
 }
