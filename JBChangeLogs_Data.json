@@ -4198,5 +4198,173 @@
     "Type": "HyperChrome",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "Rattler (Vehicle)": {
+    "Cash Value": "4 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperDiamond Level 2 (HyperChrome)": {
+    "Cash Value": "4 500 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Bandit (Vehicle)": {
+    "Cash Value": "5 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Goliath (Vehicle)": {
+    "Cash Value": "5 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Ionize (Rim)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Carbonara (Vehicle)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Macaron (Vehicle)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Bicycle Rack (Spoiler)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperBlue Level 2 (HyperChrome)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperGreen Level 3 (HyperChrome)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snowstorm (Weapon Skin)": {
+    "Cash Value": "5 500 000",
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Scorpion (Vehicle)": {
+    "Cash Value": "6 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Brickset (Tire Style)": {
+    "Cash Value": "6 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperOrange Level 3 (HyperChrome)": {
+    "Cash Value": "6 000 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Sci-Fi Kitchen (Furniture)": {
+    "Cash Value": "6 000 000",
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Shogun (Vehicle)": {
+    "Cash Value": "6 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Shell Classic (Vehicle)": {
+    "Cash Value": "7 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Aperture (Vehicle)": {
+    "Cash Value": "7 500 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Parisian (Vehicle)": {
+    "Cash Value": "8 000 000",
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Spiked (Tire Style)": {
+    "Cash Value": "8 500 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Snowstorm (Texture)": {
+    "Cash Value": "9 000 000",
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperRed Level 3 (HyperChrome)": {
+    "Cash Value": "9 500 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Blue 50 (Tire Sticker)": {
+    "Cash Value": "10 000 000",
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPurple Level 3 (HyperChrome)": {
+    "Cash Value": "10 000 000",
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
