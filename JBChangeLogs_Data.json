@@ -2182,5 +2182,173 @@
     "Type": "Furniture",
     "Demand": "Unknown",
     "Trend": "Close to none"
+  },
+  "Aurora Chandelier (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Car Pool Table (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Hero Zapper (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Japanese Neon Sign (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Nukamo Fridge (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Tiki Tea Bar (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Blue Pixel Racer (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Snake Guard (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Snake Skin (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Rok (Tire Style)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Banana Chandelier (Furniture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Kraken Attack (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Brig Bone (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Kraken (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Buccaneer (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiant White (Body Color)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Magmatic Glow (Tire Style)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Hatch Voids (Rim)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cyberpunk (Spoiler)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Vibrant Hologram (Texture)": {
+    "Cash Value": 250000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "XRK (Vehicle)": {
+    "Cash Value": 299000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Forged (Rim)": {
+    "Cash Value": 300000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Flamethrower (Drift)": {
+    "Cash Value": 300000,
+    "Duped Value": "N/A",
+    "Type": "Drift",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Stunt (Vehicle)": {
+    "Cash Value": 300000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
   }
 }
