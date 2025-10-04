@@ -3533,5 +3533,125 @@
     "Cash Value": "N/A",
     "Duped Value": "N/A",
     "Type": "Vehicle"
+  },
+  "Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Blue (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Brown (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Gray (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Orange (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Violet (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pastel Yellow (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Purple (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Real Green (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Red (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Sakura Pink (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Sand (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Yellow (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Classic Sport (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Classic Thick (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Classic (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Monster (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Offroad (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Treaded Sport (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Treaded Thick (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Treaded (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
   }
 }
