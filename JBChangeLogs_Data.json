@@ -1174,5 +1174,173 @@
     "Type": "Texture",
     "Demand": "Unknown",
     "Trend": "Unknown"
+  },
+  "BatWings (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Campout (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Flame Spitter (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "GTR (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Harpoon (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jailbreak Hills (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Laser Wire (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Meteor Magnet (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Native (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Racer (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Scythes (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Ski Wing (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Terminator (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Jet Ski (Vehicle)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Trail Trek (Tire Style)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Tire Style",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Cosmetic Safe (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "CyberBlue Couch (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Fabulous Sign (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Radiation Radio (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Toy Plane (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Wanted Background (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Winter Rally Lamp (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
+  },
+  "Voxel Sofa (Furniture)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Furniture",
+    "Demand": "Unknown",
+    "Trend": "Unknown"
+  },
+  "Voxel (Spoiler)": {
+    "Cash Value": 50,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Close to none"
   }
 }
