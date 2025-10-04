@@ -4534,5 +4534,173 @@
     "Type": "HyperChrome",
     "Demand": "Unknown",
     "Trend": "Stable"
+  },
+  "HyperBlue Level 3 (HyperChrome)": {
+    "Cash Value": 24500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Laser Cannon (Rim)": {
+    "Cash Value": 27500000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Proto-8 (Vehicle)": {
+    "Cash Value": 29500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperRed Level 4 (HyperChrome)": {
+    "Cash Value": 30000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Vantablack (Body Color)": {
+    "Cash Value": 31000000,
+    "Duped Value": "N/A",
+    "Type": "Body Color",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPurple Level 4 (HyperChrome)": {
+    "Cash Value": 32000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperOrange Level 5 (HyperChrome)": {
+    "Cash Value": 32500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Celsior (Vehicle)": {
+    "Cash Value": 33000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Beignet (Vehicle)": {
+    "Cash Value": 38500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Thrusters (Spoiler)": {
+    "Cash Value": 39000000,
+    "Duped Value": "N/A",
+    "Type": "Spoiler",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Checker (Texture)": {
+    "Cash Value": 39500000,
+    "Duped Value": "N/A",
+    "Type": "Texture",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Void (Rim)": {
+    "Cash Value": 42000000,
+    "Duped Value": "N/A",
+    "Type": "Rim",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPink Level 4 (HyperChrome)": {
+    "Cash Value": 42000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPurple Level 5 (HyperChrome)": {
+    "Cash Value": 42500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperRed Level 5 (HyperChrome)": {
+    "Cash Value": 45000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Javelin (Vehicle)": {
+    "Cash Value": 46000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "Torpedo (Vehicle)": {
+    "Cash Value": 49000000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperDiamond Level 4 (HyperChrome)": {
+    "Cash Value": 49000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperPink Level 5 (HyperChrome)": {
+    "Cash Value": 49500000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperBlue Level 4 (HyperChrome)": {
+    "Cash Value": 60000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperBlue Level 5 (HyperChrome)": {
+    "Cash Value": 61000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperDiamond Level 5 (HyperChrome)": {
+    "Cash Value": 70000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperShift Level 4 (HyperChrome)": {
+    "Cash Value": 265000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
+  },
+  "HyperShift (HyperChrome)": {
+    "Cash Value": 340000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome",
+    "Demand": "Unknown",
+    "Trend": "Stable"
   }
 }
