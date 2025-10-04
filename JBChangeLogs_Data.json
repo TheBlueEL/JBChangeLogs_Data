@@ -118,5 +118,125 @@
     "Cash Value": 5000,
     "Duped Value": "N/A",
     "Type": "Body Color"
+  },
+  "Darkest Red (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Hottest Pink (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Maroon (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Military Green (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Navy Blue (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Aurora (Weapon Skin)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Weapon Skin"
+  },
+  "Jungle Mosaic (Tire Sticker)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Tire Sticker"
+  },
+  "Mud (Body Color)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Body Color"
+  },
+  "Tiki Stack Of Badimo (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Bamboo (Rim)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Rally Signage (Furniture)": {
+    "Cash Value": 5000,
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Pickup (Vehicle)": {
+    "Cash Value": 9000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "7 billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Billion (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Jet (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Landmine (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Mystic (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Spike (Rim)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Deja (Vehicle)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
+  },
+  "Classic Var 3 (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Frost (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Paint (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Peach (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Racer (Texture)": {
+    "Cash Value": 10000,
+    "Duped Value": "N/A",
+    "Type": "Texture"
   }
 }
