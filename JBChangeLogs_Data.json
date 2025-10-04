@@ -1078,5 +1078,125 @@
     "Cash Value": "N/A",
     "Duped Value": 1000000,
     "Type": "Spoiler"
+  },
+  "Windmill (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Black Hawk (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Jet (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Drone (Vehicle)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Vehicle"
+  },
+  "Ice Spike (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Drift"
+  },
+  "Radiant Ice (Body Color)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Body Color"
+  },
+  "HyperGreen Level 2 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "HyperChrome"
+  },
+  "HyperOrange Level 2 (HyperChrome)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "HyperChrome"
+  },
+  "Bloxy Lisa (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Furniture"
+  },
+  "Foosball Table (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Furniture"
+  },
+  "Missile Bed (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Furniture"
+  },
+  "Super Star Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Furniture"
+  },
+  "Arcade Portal (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Furniture"
+  },
+  "Pixeltary (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Rim"
+  },
+  "Arcade Racer (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Fire (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Weapon Skin"
+  },
+  "Galactic Carbon (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Weapon Skin"
+  },
+  "White Marble (Weapon Skin)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Weapon Skin"
+  },
+  "Bamboo Shooters (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": 1000000,
+    "Type": "Spoiler"
+  },
+  "Baller (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Biohazard (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Compass (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Dino (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
+  },
+  "Handcuff (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": 750000,
+    "Type": "Rim"
   }
 }
