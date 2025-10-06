@@ -275,7 +275,7 @@
     "Type": "Vehicle"
   },
   "Shell Classic (Vehicle)": {
-    "Cash Value": 6000000,
+    "Cash Value": 3500000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -300,7 +300,7 @@
     "Type": "HyperChrome"
   },
   "Sci-Fi Kitchen (Furniture)": {
-    "Cash Value": 6000000,
+    "Cash Value": 5500000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -355,7 +355,7 @@
     "Type": "Vehicle"
   },
   "HyperDiamond Level 2 (HyperChrome)": {
-    "Cash Value": 4500000,
+    "Cash Value": 4000000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -680,7 +680,7 @@
     "Type": "Tire Style"
   },
   "Blue Eyes (Rim)": {
-    "Cash Value": 1500000,
+    "Cash Value": 2000000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -740,7 +740,7 @@
     "Type": "Spoiler"
   },
   "Endurance Wing (Spoiler)": {
-    "Cash Value": 1500000,
+    "Cash Value": 2000000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -835,12 +835,12 @@
     "Type": "Rim"
   },
   "Frostburn (Rim)": {
-    "Cash Value": 1250000,
+    "Cash Value": 1500000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
   "Red Eyes (Rim)": {
-    "Cash Value": 1250000,
+    "Cash Value": 1500000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -940,7 +940,7 @@
     "Type": "Rim"
   },
   "Fore (Rim)": {
-    "Cash Value": 1000000,
+    "Cash Value": 1250000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -1165,7 +1165,7 @@
     "Type": "Weapon Skin"
   },
   "White Marble (Weapon Skin)": {
-    "Cash Value": 1000000,
+    "Cash Value": 1250000,
     "Duped Value": "N/A",
     "Type": "Weapon Skin"
   },
@@ -3903,5 +3903,40 @@
     "Cash Value": "N/A",
     "Duped Value": "N/A",
     "Type": "Click me!"
+  },
+  "HyperShift (HyperChrome)": {
+    "Cash Value": 410000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperDiamond Level 5 (HyperChrome)": {
+    "Cash Value": 75000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperBlue Level 5 (HyperChrome)": {
+    "Cash Value": 80000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperPink Level 5 (HyperChrome)": {
+    "Cash Value": 59000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperRed Level 5 (HyperChrome)": {
+    "Cash Value": 49000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperPurple Level 5 (HyperChrome)": {
+    "Cash Value": 47000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
+  },
+  "HyperOrange Level 5 (HyperChrome)": {
+    "Cash Value": 36000000,
+    "Duped Value": "N/A",
+    "Type": "HyperChrome"
   }
 }
