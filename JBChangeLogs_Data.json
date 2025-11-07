@@ -2125,7 +2125,7 @@
     "Type": "Body Color"
   },
   "Pixel Campfire (Furniture)": {
-    "Cash Value": 200000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2185,7 +2185,7 @@
     "Type": "Spoiler"
   },
   "Giant OG Snowman (Furniture)": {
-    "Cash Value": 150000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2415,7 +2415,7 @@
     "Type": "Drift"
   },
   "Wild West Wagon (Furniture)": {
-    "Cash Value": 75000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2610,7 +2610,7 @@
     "Type": "Furniture"
   },
   "Radiation Radio (Furniture)": {
-    "Cash Value": 50000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2620,7 +2620,7 @@
     "Type": "Furniture"
   },
   "Wanted Background (Furniture)": {
-    "Cash Value": 50000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
