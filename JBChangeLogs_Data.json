@@ -830,7 +830,7 @@
     "Type": "Rim"
   },
   "Energized (Rim)": {
-    "Cash Value": 1250000,
+    "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -915,7 +915,7 @@
     "Type": "HyperChrome"
   },
   "HyperRed Level 2 (HyperChrome)": {
-    "Cash Value": 1250000,
+    "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -1265,7 +1265,7 @@
     "Type": "Spoiler"
   },
   "Japanese Lantern (Spoiler)": {
-    "Cash Value": 750000,
+    "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1300,7 +1300,7 @@
     "Type": "Tire Style"
   },
   "Air Hockey Table (Furniture)": {
-    "Cash Value": 750000,
+    "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
