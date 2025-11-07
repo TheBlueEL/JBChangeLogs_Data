@@ -1350,7 +1350,7 @@
     "Type": "Rim"
   },
   "Arch9000 Glow (Tire Sticker)": {
-    "Cash Value": "N/A",
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
@@ -1380,7 +1380,7 @@
     "Type": "Furniture"
   },
   "Sakura Tree (Furniture)": {
-    "Cash Value": 750000,
+    "Cash Value": 1000000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -1440,7 +1440,7 @@
     "Type": "Vehicle"
   },
   "HyperYellow Level 2 (HyperChrome)": {
-    "Cash Value": 600000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -1455,7 +1455,7 @@
     "Type": "Rim"
   },
   "Beadlock (Rim)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -1480,12 +1480,12 @@
     "Type": "Rim"
   },
   "Ship Wheel (Rim)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
   "UK Heritage (Rim)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -1545,7 +1545,7 @@
     "Type": "Texture"
   },
   "Camo Radar (Texture)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
@@ -1600,12 +1600,12 @@
     "Type": "Spoiler"
   },
   "SawBlade (Spoiler)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "Skull (Spoiler)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1625,7 +1625,7 @@
     "Type": "Spoiler"
   },
   "Waving Flag (Spoiler)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1640,22 +1640,22 @@
     "Type": "Body Color"
   },
   "Arcade Sports Machine (Furniture)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Beach Hammock (Furniture)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Liberty (Furniture)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "London Telephone Sofa (Furniture)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -1670,7 +1670,7 @@
     "Type": "Body Color"
   },
   "Winner (Horn)": {
-    "Cash Value": 500000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Horn"
   },
@@ -1720,7 +1720,7 @@
     "Type": "Drift"
   },
   "Stacked Cyberwing (Spoiler)": {
-    "Cash Value": 400000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1885,12 +1885,12 @@
     "Type": "Texture"
   },
   "Wooden Toy (Texture)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "5B Flags (Spoiler)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1920,7 +1920,7 @@
     "Type": "Spoiler"
   },
   "Travel Case (Spoiler)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1980,7 +1980,7 @@
     "Type": "Body Color"
   },
   "Glacier (Tire Style)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Tire Style"
   },
@@ -1990,7 +1990,7 @@
     "Type": "Tire Style"
   },
   "80s Cassette Table (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2000,7 +2000,7 @@
     "Type": "Furniture"
   },
   "Car Pool Table (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2015,12 +2015,12 @@
     "Type": "Furniture"
   },
   "Nukamo Fridge (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Tiki Tea Bar (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -2045,12 +2045,12 @@
     "Type": "Tire Style"
   },
   "Banana Chandelier (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Kraken Attack (Spoiler)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2085,7 +2085,7 @@
     "Type": "Rim"
   },
   "Cyberpunk (Spoiler)": {
-    "Cash Value": 250000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2105,7 +2105,7 @@
     "Type": "Rim"
   },
   "Fiasco (Vehicle)": {
-    "Cash Value": 200000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -2205,7 +2205,7 @@
     "Type": "Vehicle"
   },
   "Cassette (Rim)": {
-    "Cash Value": 100000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -2255,7 +2255,7 @@
     "Type": "Vehicle"
   },
   "Tokyo (Tire Sticker)": {
-    "Cash Value": 100000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
@@ -2335,7 +2335,7 @@
     "Type": "Furniture"
   },
   "Champion Trumpets (Horn)": {
-    "Cash Value": 100000,
+    "Cash Value": 500000,
     "Duped Value": "N/A",
     "Type": "Horn"
   },
@@ -2475,17 +2475,17 @@
     "Type": "Vehicle"
   },
   "Buoy (Tire Sticker)": {
-    "Cash Value": 50000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
   "Champion (Tire Sticker)": {
-    "Cash Value": 50000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
   "Flags Of Europe (Tire Sticker)": {
-    "Cash Value": 50000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
@@ -2505,7 +2505,7 @@
     "Type": "Texture"
   },
   "Ladybug (Texture)": {
-    "Cash Value": 50000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
@@ -2530,7 +2530,7 @@
     "Type": "Spoiler"
   },
   "Flame Spitter (Spoiler)": {
-    "Cash Value": 50000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2570,7 +2570,7 @@
     "Type": "Spoiler"
   },
   "Scythes (Spoiler)": {
-    "Cash Value": 50000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2625,7 +2625,7 @@
     "Type": "Furniture"
   },
   "Winter Rally Lamp (Furniture)": {
-    "Cash Value": 50000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -3165,7 +3165,7 @@
     "Type": "Vehicle"
   },
   "Classic Var 3 (Texture)": {
-    "Cash Value": 10000,
+    "Cash Value": 50000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
@@ -3180,7 +3180,7 @@
     "Type": "Texture"
   },
   "Peach (Texture)": {
-    "Cash Value": 10000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
@@ -3335,7 +3335,7 @@
     "Type": "Furniture"
   },
   "Classic Var 1 (Texture)": {
-    "Cash Value": 4000,
+    "Cash Value": 50000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
@@ -3988,5 +3988,15 @@
     "Cash Value": "N/A",
     "Duped Value": "N/A",
     "Type": "Spoiler"
+  },
+  "SubSpace (Drift)": {
+    "Cash Value": 150000,
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Pizza Delivery (Vehicle)": {
+    "Cash Value": 500000,
+    "Duped Value": "N/A",
+    "Type": "Vehicle"
   }
 }
