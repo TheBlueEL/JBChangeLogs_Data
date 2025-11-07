@@ -4033,5 +4033,15 @@
     "Cash Value": "N/A",
     "Duped Value": "N/A",
     "Type": "Vehicle"
+  },
+  "Categories (Click me!)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Click me!"
+  },
+  "Trading Guides & Information (Click me!)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Click me!"
   }
 }
