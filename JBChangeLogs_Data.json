@@ -3938,5 +3938,55 @@
     "Cash Value": 18500000,
     "Duped Value": 16500000,
     "Type": "HyperChrome"
+  },
+  "Roblox R (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Bloxxer Launcher (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
+  },
+  "Spawn Rug (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "Avatar Wardrobe (Furniture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Furniture"
+  },
+  "RobloxStud (Texture)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Texture"
+  },
+  "Speed Coil (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "Truss (Rim)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Rim"
+  },
+  "R2008 (Tire Style)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Tire Style"
+  },
+  "Bloxxer (Drift)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Drift"
+  },
+  "Brick Kar-1 (Spoiler)": {
+    "Cash Value": "N/A",
+    "Duped Value": "N/A",
+    "Type": "Spoiler"
   }
 }
