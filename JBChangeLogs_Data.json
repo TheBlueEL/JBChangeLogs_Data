@@ -1,32 +1,12 @@
 {
-  "HyperShift 2023 (HyperChrome)": {
-    "Cash Value": 340000000,
-    "Duped Value": 300000000,
-    "Type": "HyperChrome"
-  },
   "HyperShift Level 4 (HyperChrome)": {
     "Cash Value": 265,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
-  "HyperDiamond Level 5 2023 (HyperChrome)": {
-    "Cash Value": 70000000,
-    "Duped Value": 60000000,
-    "Type": "HyperChrome"
-  },
-  "HyperBlue Level 5 2023 (HyperChrome)": {
-    "Cash Value": 61000000,
-    "Duped Value": 50000000,
-    "Type": "HyperChrome"
-  },
   "HyperBlue Level 4 (HyperChrome)": {
     "Cash Value": 60,
     "Duped Value": "N/A",
-    "Type": "HyperChrome"
-  },
-  "HyperPink Level 5 2023 (HyperChrome)": {
-    "Cash Value": 49500000,
-    "Duped Value": 44000000,
     "Type": "HyperChrome"
   },
   "Torpedo (Vehicle)": {
@@ -43,16 +23,6 @@
     "Cash Value": 47,
     "Duped Value": "N/A",
     "Type": "Vehicle"
-  },
-  "HyperRed Level 5 2023 (HyperChrome)": {
-    "Cash Value": 45000000,
-    "Duped Value": 39000000,
-    "Type": "HyperChrome"
-  },
-  "HyperPurple Level 5 2023 (HyperChrome)": {
-    "Cash Value": 42500000,
-    "Duped Value": 40000000,
-    "Type": "HyperChrome"
   },
   "Void (Rim)": {
     "Cash Value": 42,
@@ -84,11 +54,6 @@
     "Duped Value": 31,
     "Type": "Vehicle"
   },
-  "HyperOrange Level 5 2023 (HyperChrome)": {
-    "Cash Value": 32500000,
-    "Duped Value": 29000000,
-    "Type": "HyperChrome"
-  },
   "HyperPurple Level 4 (HyperChrome)": {
     "Cash Value": 32,
     "Duped Value": "N/A",
@@ -117,11 +82,6 @@
   "HyperBlue Level 3 (HyperChrome)": {
     "Cash Value": 23,
     "Duped Value": "N/A",
-    "Type": "HyperChrome"
-  },
-  "HyperGreen Level 5 2023 (HyperChrome)": {
-    "Cash Value": 24000000,
-    "Duped Value": 22500000,
     "Type": "HyperChrome"
   },
   "Arachnid (Vehicle)": {
@@ -183,11 +143,6 @@
     "Cash Value": 17,
     "Duped Value": "N/A",
     "Type": "Vehicle"
-  },
-  "HyperYellow Level 5 2023 (HyperChrome)": {
-    "Cash Value": 17500000,
-    "Duped Value": 16000000,
-    "Type": "HyperChrome"
   },
   "Crew Capsule (Vehicle)": {
     "Cash Value": 14,
