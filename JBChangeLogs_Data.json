@@ -1370,7 +1370,7 @@
     "Type": "Vehicle"
   },
   "Venom (Vehicle)": {
-    "Cash Value": 650000,
+    "Cash Value": 450000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -2255,7 +2255,7 @@
     "Type": "Spoiler"
   },
   "T Rex Bone (Spoiler)": {
-    "Cash Value": 100000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2285,7 +2285,7 @@
     "Type": "Tire Style"
   },
   "French Croissant Sofa (Furniture)": {
-    "Cash Value": 100000,
+    "Cash Value": 250000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
