@@ -96,7 +96,7 @@
   },
   "Spinner (Rim)": {
     "Cash Value": 19000000,
-    "Duped Value": 15000000,
+    "Duped Value": 15500000,
     "Type": "Rim"
   },
   "HyperOrange Level 4 (HyperChrome)": {
@@ -230,7 +230,7 @@
     "Type": "Vehicle"
   },
   "Shell Classic (Vehicle)": {
-    "Cash Value": 2750000,
+    "Cash Value": 2500000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -245,7 +245,7 @@
     "Type": "Vehicle"
   },
   "Brickset (Tire Style)": {
-    "Cash Value": 4500000,
+    "Cash Value": 5000000,
     "Duped Value": "N/A",
     "Type": "Tire Style"
   },
@@ -260,7 +260,7 @@
     "Type": "Furniture"
   },
   "Ionize (Rim)": {
-    "Cash Value": 5000000,
+    "Cash Value": 5500000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -280,7 +280,7 @@
     "Type": "Spoiler"
   },
   "HyperBlue Level 2 (HyperChrome)": {
-    "Cash Value": 5000000,
+    "Cash Value": 5500000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -350,7 +350,7 @@
     "Type": "HyperChrome"
   },
   "Snowflake (Rim)": {
-    "Cash Value": 5000000,
+    "Cash Value": 3500000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -600,7 +600,7 @@
     "Type": "Vehicle"
   },
   "Poseidon (Vehicle)": {
-    "Cash Value": 2500000,
+    "Cash Value": 3000000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -1170,7 +1170,7 @@
     "Type": "Tire Sticker"
   },
   "Red S3 (Tire Sticker)": {
-    "Cash Value": 750000,
+    "Cash Value": 750,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
@@ -1370,7 +1370,7 @@
     "Type": "Vehicle"
   },
   "Venom (Vehicle)": {
-    "Cash Value": 450000,
+    "Cash Value": 650000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -2255,7 +2255,7 @@
     "Type": "Spoiler"
   },
   "T Rex Bone (Spoiler)": {
-    "Cash Value": 250000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -2285,7 +2285,7 @@
     "Type": "Tire Style"
   },
   "French Croissant Sofa (Furniture)": {
-    "Cash Value": 250000,
+    "Cash Value": 100000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
