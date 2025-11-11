@@ -15,7 +15,7 @@
     "Type": "Vehicle"
   },
   "HyperDiamond Level 4 (HyperChrome)": {
-    "Cash Value": 49000000,
+    "Cash Value": 48500000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -96,7 +96,7 @@
   },
   "Spinner (Rim)": {
     "Cash Value": 19000000,
-    "Duped Value": 15500000,
+    "Duped Value": 15000000,
     "Type": "Rim"
   },
   "HyperOrange Level 4 (HyperChrome)": {
@@ -230,7 +230,7 @@
     "Type": "Vehicle"
   },
   "Shell Classic (Vehicle)": {
-    "Cash Value": 2500000,
+    "Cash Value": 2750000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -245,7 +245,7 @@
     "Type": "Vehicle"
   },
   "Brickset (Tire Style)": {
-    "Cash Value": 5000000,
+    "Cash Value": 4500000,
     "Duped Value": "N/A",
     "Type": "Tire Style"
   },
@@ -260,7 +260,7 @@
     "Type": "Furniture"
   },
   "Ionize (Rim)": {
-    "Cash Value": 5500000,
+    "Cash Value": 5000000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -280,7 +280,7 @@
     "Type": "Spoiler"
   },
   "HyperBlue Level 2 (HyperChrome)": {
-    "Cash Value": 5500000,
+    "Cash Value": 5000000,
     "Duped Value": "N/A",
     "Type": "HyperChrome"
   },
@@ -350,7 +350,7 @@
     "Type": "HyperChrome"
   },
   "Snowflake (Rim)": {
-    "Cash Value": 3500000,
+    "Cash Value": 5000000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -600,7 +600,7 @@
     "Type": "Vehicle"
   },
   "Poseidon (Vehicle)": {
-    "Cash Value": 3000000,
+    "Cash Value": 2500000,
     "Duped Value": "N/A",
     "Type": "Vehicle"
   },
@@ -1170,7 +1170,7 @@
     "Type": "Tire Sticker"
   },
   "Red S3 (Tire Sticker)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Tire Sticker"
   },
@@ -3865,8 +3865,8 @@
     "Type": "HyperChrome"
   },
   "HyperPink Level 5 (HyperChrome)": {
-    "Cash Value": 51000000,
-    "Duped Value": 46500000,
+    "Cash Value": 52500000,
+    "Duped Value": 48000000,
     "Type": "HyperChrome"
   },
   "HyperRed Level 5 (HyperChrome)": {
