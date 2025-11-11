@@ -290,7 +290,7 @@
     "Type": "HyperChrome"
   },
   "Snowstorm (Weapon Skin)": {
-    "Cash Value": 5000000,
+    "Cash Value": 4500000,
     "Duped Value": "N/A",
     "Type": "Weapon Skin"
   },
@@ -350,7 +350,7 @@
     "Type": "HyperChrome"
   },
   "Snowflake (Rim)": {
-    "Cash Value": 5000000,
+    "Cash Value": 5500000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
@@ -1090,7 +1090,7 @@
     "Type": "Furniture"
   },
   "Super Star Rug (Furniture)": {
-    "Cash Value": 1000000,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -1190,32 +1190,32 @@
     "Type": "Texture"
   },
   "Flaming (Texture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "Glowing Yellow (Texture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "Hotdog (Texture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "Money (Texture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "Wavy (Texture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Texture"
   },
   "Glider Shop (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1225,32 +1225,32 @@
     "Type": "Spoiler"
   },
   "Star Wing (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "Triple Fin (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "Tuner (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "Sled Void (Rim)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Rim"
   },
   "Hazards (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "America (Tire Style)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Tire Style"
   },
@@ -1260,17 +1260,17 @@
     "Type": "Furniture"
   },
   "Gamer Chair (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "If I Had One (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Puzzle Couch (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -1555,12 +1555,12 @@
     "Type": "Spoiler"
   },
   "SawBlade (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
   "Skull (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1580,7 +1580,7 @@
     "Type": "Spoiler"
   },
   "Waving Flag (Spoiler)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Spoiler"
   },
@@ -1595,22 +1595,22 @@
     "Type": "Body Color"
   },
   "Arcade Sports Machine (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Beach Hammock (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "Liberty (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
   "London Telephone Sofa (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -1970,7 +1970,7 @@
     "Type": "Furniture"
   },
   "Nukamo Fridge (Furniture)": {
-    "Cash Value": 750,
+    "Cash Value": 750000,
     "Duped Value": "N/A",
     "Type": "Furniture"
   },
@@ -3880,8 +3880,8 @@
     "Type": "HyperChrome"
   },
   "HyperOrange Level 5 (HyperChrome)": {
-    "Cash Value": 33000000,
-    "Duped Value": 30500000,
+    "Cash Value": 34000000,
+    "Duped Value": 31000000,
     "Type": "HyperChrome"
   },
   "HyperGreen Level 5 (HyperChrome)": {
